@@ -1,4 +1,4 @@
-# colin-kazee
+# colin-kazee-2
 
 a [Sails v1](https://sailsjs.com) application
 
@@ -15,7 +15,7 @@ a [Sails v1](https://sailsjs.com) application
 
 ### Version info
 
-This app was originally generated on Wed Aug 08 2018 11:13:49 GMT-0600 (Mountain Daylight Time) using Sails v1.0.2.
+This app was originally generated on Wed Aug 08 2018 16:17:58 GMT-0600 (Mountain Daylight Time) using Sails v1.0.2.
 
 <!-- Internally, Sails used [`sails-generate@1.15.28`](https://github.com/balderdashy/sails-generate/tree/v1.15.28/lib/core-generators/new). -->
 

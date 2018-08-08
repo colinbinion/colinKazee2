@@ -1,5 +1,5 @@
 {
-  "name": "colin-kazee",
+  "name": "colin-kazee-2",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -33,7 +33,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/colinbinion/colin-kazee.git"
+    "url": "git://github.com/colinbinion/colin-kazee-2.git"
   },
   "author": "colinbinion",
   "license": "",

@@ -1,1 +1,0 @@
-Client-side HTML templates are important prerequisites for certain types of modern, rich client applications built for browsers; particularly SPAs. To work their magic, frameworks like Backbone, Angular, Ember, and Knockout require that you load templates client-side; completely separate from your traditional server-side views.
