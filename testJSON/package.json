@@ -3,6 +3,8 @@
     "@sailshq/lodash": "^3.10.3",
     "async": "^2.6.1",
     "flaverr": "^1.9.2",
-    "machine": "^15.2.2"
+    "machine": "^15.2.2",
+    "machinepack-postgresql": "^1.0.0",
+    "sails-postgresql": "^1.0.1"
   }
 }
