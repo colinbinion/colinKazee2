@@ -1,22 +1,22 @@
 /**
- * `tasks/config/less`
+ * `tasks/config/sass`
  *
  * ---------------------------------------------------------------
  *
- * Compile your LESS files into a CSS stylesheet.
+ * Compile your sass files into a CSS stylesheet.
  *
  * For more information, see:
- *   https://sailsjs.com/anatomy/tasks/config/less.js
+ *   https://sailsjs.com/anatomy/tasks/config/sass.js
  *
  */
-module.exports = function(grunt) {
+module.exports = function (grunt) {
 
-  grunt.config.set('less', {
+  grunt.config.set('sass', {
     dev: {
       files: [{
         expand: true,
         cwd: 'assets/styles/',
-        src: ['importer.less'],
+        src: ['importer.sass'],
         dest: '.tmp/public/styles/',
         ext: '.css'
       }]
@@ -35,7 +35,7 @@ module.exports = function(grunt) {
   //
   // 1. Install it as a local dependency of your Sails app:
   //    ```
-  //    $ npm install grunt-contrib-less --save-dev --save-exact
+  //    $ npm install grunt-contrib-sass --save-dev --save-exact
   //    ```
   //
   //
@@ -43,7 +43,7 @@ module.exports = function(grunt) {
   //
   // ```
   // // Load Grunt plugin from the node_modules/ folder.
-  // grunt.loadNpmTasks('grunt-contrib-less');
+  // grunt.loadNpmTasks('grunt-contrib-sass');
   // ```
   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
